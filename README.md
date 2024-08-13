@@ -1,0 +1,2 @@
+# Enhancing-Ocean-Biodiversity-Conservation-Efforts-Around-the-Indian-Coast-Using-AI-ML-and-AWS-
+The project uses AI/ML technology to analyze marine biodiversity with the goal of improving conservation efforts along the Indian coastline..The objective is to use patterns such as species distribution, small fish abundance, and ecological conditions to identify key areas that need immediate conservation.
