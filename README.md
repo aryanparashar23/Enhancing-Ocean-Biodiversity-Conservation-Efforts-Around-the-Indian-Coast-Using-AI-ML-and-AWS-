@@ -1,4 +1,7 @@
-# Enhancing Ocean Biodiversity Conservation Efforts Around the Indian Coast Using AI-ML and AWS
-The Indian coastline is home to a rich diversity of marine life, but increasing human activity and climate change pose significant threats to its biodiversity. Effective conservation efforts require identifying critical areas that need protection and understanding the factors that influence marine biodiversity. The objective is to analyze current biodiversity zones along the Indian coast and identify regions that require urgent conservation based on various parameters such as the number of small fishes, aquatic flora and fauna, marine habitats, and other environmental factors. By leveraging AI/ML technologies and AWS services, this project aims to provide actionable insights to conservationists and policymakers for targeted and effective conservation strategies.
+## Title: Enhancing Ocean Biodiversity Conservation Efforts Around the Indian Coast Using AI/ML and AWS Services
 
-This Project is done in Group link to access the project- https://github.com/Vrushali2024/group_3
+The goal of this project is to save the marine life that is endangered by climate change and human activity along the Indian coast. 
+Our goal is to investigate and pinpoint crucial regions that require immediate conservation by utilizing cutting-edge technologies on AWS, such as artificial intelligence and machine learning. 
+The goal is to help conservationists and policymakers make informed decisions to better protect and preserve marine biodiversity.
+
+## Dataset: Ocean Biodiversity Information System
